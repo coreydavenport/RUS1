@@ -139,13 +139,13 @@ body {
 
 /* green header */
 header {
-  background: #4CEAFF;
-  border-color: #00707F
+  background: #5EA6FA;
+  border-color: #4275B0;
 }
 
 /* nav background on mobile */
 nav {
-  background: #00707F;
+  background: #4275B0;
 }
 
 /* logo text */
@@ -165,7 +165,7 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #FF198E;
+  color: #192C42;
 }
 
 
