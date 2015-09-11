@@ -20,6 +20,10 @@ img {
   max-width: 100%;
 }
 
+h3 {
+  margin: 0 0 1em 0;
+  
+}
 
 
 /**********************************
@@ -126,6 +130,20 @@ PAGE: PORTFOLIO
   color: #bdc3c7
 }
 
+/**********************************
+PAGE: ABOUT
+***********************************/
+
+.profile-photo {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
+
+}
+
+
+
 
 /**********************************
 COLORS
@@ -165,7 +183,7 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #192C42;
+  color: #192C42 ;
 }
 
 
